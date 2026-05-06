@@ -38,38 +38,20 @@ Atualmente estou fortalecendo meu conhecimento em Python, scripts de automacao, 
 
 <div align="center">
 
+<a href="https://github.com/4sofa/SoundPad">
+  <img alt="Repositorio SoundPad" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=SoundPad&theme=tokyonight&hide_border=true&description_lines_count=3" />
+</a>
 <a href="https://github.com/4sofa/automa-o">
   <img alt="Repositorio automa-o" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=automa-o&theme=tokyonight&hide_border=true&description_lines_count=3" />
 </a>
 <a href="https://github.com/4sofa/tech-news-aggregator">
   <img alt="Repositorio tech-news-aggregator" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=tech-news-aggregator&theme=tokyonight&hide_border=true&description_lines_count=3" />
 </a>
-<a href="https://github.com/4sofa/SoundPad">
-  <img alt="Repositorio SoundPad" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=SoundPad&theme=tokyonight&hide_border=true&description_lines_count=3" />
-</a>
-<a href="https://github.com/4sofa/SoundPadv2">
-  <img alt="Repositorio SoundPadv2" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=SoundPadv2&theme=tokyonight&hide_border=true&description_lines_count=3" />
-</a>
 <a href="https://github.com/4sofa/Portifolio">
   <img alt="Repositorio Portifolio" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=Portifolio&theme=tokyonight&hide_border=true&description_lines_count=3" />
 </a>
 <a href="https://github.com/4sofa/SiteCabana">
   <img alt="Repositorio SiteCabana" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=SiteCabana&theme=tokyonight&hide_border=true&description_lines_count=3" />
-</a>
-<a href="https://github.com/4sofa/Cursoemvideopy">
-  <img alt="Repositorio Cursoemvideopy" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=Cursoemvideopy&theme=tokyonight&hide_border=true&description_lines_count=3" />
-</a>
-<a href="https://github.com/4sofa/CalculodaHipotenusa">
-  <img alt="Repositorio CalculodaHipotenusa" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=CalculodaHipotenusa&theme=tokyonight&hide_border=true&description_lines_count=3" />
-</a>
-<a href="https://github.com/4sofa/Aniversario">
-  <img alt="Repositorio Aniversario" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=Aniversario&theme=tokyonight&hide_border=true&description_lines_count=3" />
-</a>
-<a href="https://github.com/4sofa/AniversarioRGB">
-  <img alt="Repositorio AniversarioRGB" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=AniversarioRGB&theme=tokyonight&hide_border=true&description_lines_count=3" />
-</a>
-<a href="https://github.com/4sofa/4sofa">
-  <img alt="Repositorio 4sofa" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=4sofa&theme=tokyonight&hide_border=true&description_lines_count=3" />
 </a>
 
 </div>
