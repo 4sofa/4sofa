@@ -34,40 +34,79 @@ Atualmente estou fortalecendo meu conhecimento em Python, scripts de automacao, 
 
 </div>
 
-## Repositorios
+## Projetos
 
-| Projeto | Objetivo | Stack |
-| --- | --- | --- |
-| [automa-o](https://github.com/4sofa/automa-o) | Automacoes criadas para escola, prefeitura e colegio, incluindo geracao de links a partir de planilhas e envio de emails com dados estruturados. | JavaScript, Google Sheets, automacoes |
-| [Portifolio](https://github.com/4sofa/Portifolio) | Portfolio pessoal para organizar apresentacao, habilidades, experiencia, projetos e evolucao tecnica. | TypeScript, Next.js, Tailwind CSS, Framer Motion |
-| [tech-news-aggregator](https://github.com/4sofa/tech-news-aggregator) | Agregador editorial de noticias de TI com leitor interno, sincronizacao de noticias, traducao opcional e resumo por IA. | JavaScript, Node.js, Express, Python, CSS, HTML, libSQL/Turso |
-| [SoundPad](https://github.com/4sofa/SoundPad) | Painel pessoal de efeitos sonoros e memes para conversas ou streams, com busca de audios e configuracao de dispositivos. | JavaScript, CSS, HTML, Python |
-| [SoundPadv2](https://github.com/4sofa/SoundPadv2) | Segunda versao/experimento do SoundPad com base Tauri para evoluir a ferramenta como app desktop. | CSS, HTML, JavaScript, Rust, Tauri |
-| [SiteCabana](https://github.com/4sofa/SiteCabana) | Site web usado para praticar estrutura, estilo e interatividade no front-end. | HTML, CSS, JavaScript |
-| [Cursoemvideopy](https://github.com/4sofa/Cursoemvideopy) | Repositorio de estudos e exercicios de Python. | Python, HTML, TeX |
-| [CalculodaHipotenusa](https://github.com/4sofa/CalculodaHipotenusa) | Mini projeto de estudo em Python para calcular hipotenusa e praticar logica basica. | Python, HTML, TeX |
-| [Aniversario](https://github.com/4sofa/Aniversario) | Aplicativo simples para verificar se a data atual corresponde ao aniversario informado. | Python, HTML, TeX |
-| [AniversarioRGB](https://github.com/4sofa/AniversarioRGB) | Variacao visual do projeto de aniversario, com foco em experimentacao de interface. | Python, HTML, TeX |
-| [4sofa](https://github.com/4sofa/4sofa) | Repositorio de configuracao do perfil GitHub e deste README. | Markdown, GitHub Profile README |
-
-## Cards dos projetos
-
-<div align="center">
-
-<a href="https://github.com/4sofa/automa-o">
-  <img alt="Repositorio automa-o" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=automa-o&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/4sofa/tech-news-aggregator">
-  <img alt="Repositorio tech-news-aggregator" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=tech-news-aggregator&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/4sofa/SoundPad">
-  <img alt="Repositorio SoundPad" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=SoundPad&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/4sofa/Portifolio">
-  <img alt="Repositorio Portifolio" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=Portifolio&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/4sofa/automa-o">automa-o</a></h3>
+      <p>Automacoes criadas para escola, prefeitura e colegio, incluindo geracao de links a partir de planilhas e envio de emails com dados estruturados.</p>
+      <p><strong>Stack:</strong> <code>JavaScript</code> <code>Google Sheets</code> <code>automacoes</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/4sofa/tech-news-aggregator">tech-news-aggregator</a></h3>
+      <p>Agregador editorial de noticias de TI com leitor interno, sincronizacao de noticias, traducao opcional e resumo por IA.</p>
+      <p><strong>Stack:</strong> <code>JavaScript</code> <code>Node.js</code> <code>Express</code> <code>Python</code> <code>CSS</code> <code>HTML</code> <code>libSQL/Turso</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/4sofa/SoundPad">SoundPad</a></h3>
+      <p>Painel pessoal de efeitos sonoros e memes para conversas ou streams, com busca de audios e configuracao de dispositivos.</p>
+      <p><strong>Stack:</strong> <code>JavaScript</code> <code>CSS</code> <code>HTML</code> <code>Python</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/4sofa/SoundPadv2">SoundPadv2</a></h3>
+      <p>Segunda versao/experimento do SoundPad com base Tauri para evoluir a ferramenta como app desktop.</p>
+      <p><strong>Stack:</strong> <code>CSS</code> <code>HTML</code> <code>JavaScript</code> <code>Rust</code> <code>Tauri</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/4sofa/Portifolio">Portifolio</a></h3>
+      <p>Portfolio pessoal para organizar apresentacao, habilidades, experiencia, projetos e evolucao tecnica.</p>
+      <p><strong>Stack:</strong> <code>TypeScript</code> <code>Next.js</code> <code>Tailwind CSS</code> <code>Framer Motion</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/4sofa/SiteCabana">SiteCabana</a></h3>
+      <p>Site web usado para praticar estrutura, estilo e interatividade no front-end.</p>
+      <p><strong>Stack:</strong> <code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/4sofa/Cursoemvideopy">Cursoemvideopy</a></h3>
+      <p>Repositorio de estudos e exercicios de Python.</p>
+      <p><strong>Stack:</strong> <code>Python</code> <code>HTML</code> <code>TeX</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/4sofa/CalculodaHipotenusa">CalculodaHipotenusa</a></h3>
+      <p>Mini projeto de estudo em Python para calcular hipotenusa e praticar logica basica.</p>
+      <p><strong>Stack:</strong> <code>Python</code> <code>HTML</code> <code>TeX</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/4sofa/Aniversario">Aniversario</a></h3>
+      <p>Aplicativo simples para verificar se a data atual corresponde ao aniversario informado.</p>
+      <p><strong>Stack:</strong> <code>Python</code> <code>HTML</code> <code>TeX</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/4sofa/AniversarioRGB">AniversarioRGB</a></h3>
+      <p>Variacao visual do projeto de aniversario, com foco em experimentacao de interface.</p>
+      <p><strong>Stack:</strong> <code>Python</code> <code>HTML</code> <code>TeX</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/4sofa/4sofa">4sofa</a></h3>
+      <p>Repositorio de configuracao do perfil GitHub e deste README.</p>
+      <p><strong>Stack:</strong> <code>Markdown</code> <code>GitHub Profile README</code></p>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
+</table>
 
 ## Estatisticas
 
