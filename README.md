@@ -34,50 +34,40 @@ Atualmente estou fortalecendo meu conhecimento em Python, scripts de automacao, 
 
 </div>
 
-## Projetos em destaque
+## Repositorios
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Portifolio</h3>
-      <p>Portfolio pessoal em TypeScript, usado para organizar apresentacao, projetos e evolucao tecnica.</p>
-      <p>
-        <a href="https://github.com/4sofa/Portifolio">
-          <img alt="Repositorio Portifolio" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=Portifolio&theme=tokyonight&hide_border=true" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>tech-news-aggregator</h3>
-      <p>Agregador de noticias de tecnologia com automacoes, leitura de fontes e armazenamento de dados.</p>
-      <p>
-        <a href="https://github.com/4sofa/tech-news-aggregator">
-          <img alt="Repositorio tech-news-aggregator" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=tech-news-aggregator&theme=tokyonight&hide_border=true" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>SoundPad</h3>
-      <p>Painel de efeitos sonoros para uso pessoal, pensado para reproduzir sons e memes durante conversas ou streams.</p>
-      <p>
-        <a href="https://github.com/4sofa/SoundPad">
-          <img alt="Repositorio SoundPad" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=SoundPad&theme=tokyonight&hide_border=true" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>SiteCabana</h3>
-      <p>Projeto web com HTML, CSS e JavaScript, usado para praticar estrutura, estilo e comportamento no front-end.</p>
-      <p>
-        <a href="https://github.com/4sofa/SiteCabana">
-          <img alt="Repositorio SiteCabana" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=SiteCabana&theme=tokyonight&hide_border=true" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+| Projeto | Objetivo | Stack |
+| --- | --- | --- |
+| [automa-o](https://github.com/4sofa/automa-o) | Automacoes criadas para escola, prefeitura e colegio, incluindo geracao de links a partir de planilhas e envio de emails com dados estruturados. | JavaScript, Google Sheets, automacoes |
+| [Portifolio](https://github.com/4sofa/Portifolio) | Portfolio pessoal para organizar apresentacao, habilidades, experiencia, projetos e evolucao tecnica. | TypeScript, Next.js, Tailwind CSS, Framer Motion |
+| [tech-news-aggregator](https://github.com/4sofa/tech-news-aggregator) | Agregador editorial de noticias de TI com leitor interno, sincronizacao de noticias, traducao opcional e resumo por IA. | JavaScript, Node.js, Express, Python, CSS, HTML, libSQL/Turso |
+| [SoundPad](https://github.com/4sofa/SoundPad) | Painel pessoal de efeitos sonoros e memes para conversas ou streams, com busca de audios e configuracao de dispositivos. | JavaScript, CSS, HTML, Python |
+| [SoundPadv2](https://github.com/4sofa/SoundPadv2) | Segunda versao/experimento do SoundPad com base Tauri para evoluir a ferramenta como app desktop. | CSS, HTML, JavaScript, Rust, Tauri |
+| [SiteCabana](https://github.com/4sofa/SiteCabana) | Site web usado para praticar estrutura, estilo e interatividade no front-end. | HTML, CSS, JavaScript |
+| [Cursoemvideopy](https://github.com/4sofa/Cursoemvideopy) | Repositorio de estudos e exercicios de Python. | Python, HTML, TeX |
+| [CalculodaHipotenusa](https://github.com/4sofa/CalculodaHipotenusa) | Mini projeto de estudo em Python para calcular hipotenusa e praticar logica basica. | Python, HTML, TeX |
+| [Aniversario](https://github.com/4sofa/Aniversario) | Aplicativo simples para verificar se a data atual corresponde ao aniversario informado. | Python, HTML, TeX |
+| [AniversarioRGB](https://github.com/4sofa/AniversarioRGB) | Variacao visual do projeto de aniversario, com foco em experimentacao de interface. | Python, HTML, TeX |
+| [4sofa](https://github.com/4sofa/4sofa) | Repositorio de configuracao do perfil GitHub e deste README. | Markdown, GitHub Profile README |
+
+## Cards dos projetos
+
+<div align="center">
+
+<a href="https://github.com/4sofa/automa-o">
+  <img alt="Repositorio automa-o" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=automa-o&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/4sofa/tech-news-aggregator">
+  <img alt="Repositorio tech-news-aggregator" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=tech-news-aggregator&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/4sofa/SoundPad">
+  <img alt="Repositorio SoundPad" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=SoundPad&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/4sofa/Portifolio">
+  <img alt="Repositorio Portifolio" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=Portifolio&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
 
 ## Estatisticas
 
