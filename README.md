@@ -43,7 +43,7 @@ Atualmente estou fortalecendo meu conhecimento em Python, scripts de automacao, 
       <p>Portfolio pessoal em TypeScript, usado para organizar apresentacao, projetos e evolucao tecnica.</p>
       <p>
         <a href="https://github.com/4sofa/Portifolio">
-          <img alt="Repositorio Portifolio" src="https://github-readme-stats.vercel.app/api/pin/?username=4sofa&repo=Portifolio&theme=tokyonight&hide_border=true" />
+          <img alt="Repositorio Portifolio" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=Portifolio&theme=tokyonight&hide_border=true" />
         </a>
       </p>
     </td>
@@ -52,7 +52,7 @@ Atualmente estou fortalecendo meu conhecimento em Python, scripts de automacao, 
       <p>Agregador de noticias de tecnologia com automacoes, leitura de fontes e armazenamento de dados.</p>
       <p>
         <a href="https://github.com/4sofa/tech-news-aggregator">
-          <img alt="Repositorio tech-news-aggregator" src="https://github-readme-stats.vercel.app/api/pin/?username=4sofa&repo=tech-news-aggregator&theme=tokyonight&hide_border=true" />
+          <img alt="Repositorio tech-news-aggregator" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=tech-news-aggregator&theme=tokyonight&hide_border=true" />
         </a>
       </p>
     </td>
@@ -63,7 +63,7 @@ Atualmente estou fortalecendo meu conhecimento em Python, scripts de automacao, 
       <p>Painel de efeitos sonoros para uso pessoal, pensado para reproduzir sons e memes durante conversas ou streams.</p>
       <p>
         <a href="https://github.com/4sofa/SoundPad">
-          <img alt="Repositorio SoundPad" src="https://github-readme-stats.vercel.app/api/pin/?username=4sofa&repo=SoundPad&theme=tokyonight&hide_border=true" />
+          <img alt="Repositorio SoundPad" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=SoundPad&theme=tokyonight&hide_border=true" />
         </a>
       </p>
     </td>
@@ -72,7 +72,7 @@ Atualmente estou fortalecendo meu conhecimento em Python, scripts de automacao, 
       <p>Projeto web com HTML, CSS e JavaScript, usado para praticar estrutura, estilo e comportamento no front-end.</p>
       <p>
         <a href="https://github.com/4sofa/SiteCabana">
-          <img alt="Repositorio SiteCabana" src="https://github-readme-stats.vercel.app/api/pin/?username=4sofa&repo=SiteCabana&theme=tokyonight&hide_border=true" />
+          <img alt="Repositorio SiteCabana" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=SiteCabana&theme=tokyonight&hide_border=true" />
         </a>
       </p>
     </td>
@@ -84,10 +84,10 @@ Atualmente estou fortalecendo meu conhecimento em Python, scripts de automacao, 
 <div align="center">
 
 <a href="https://github.com/4sofa">
-  <img height="180" alt="GitHub stats de 4sofa" src="https://github-readme-stats.vercel.app/api?username=4sofa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&locale=pt-br" />
+  <img height="180" alt="GitHub stats de 4sofa" src="https://github-readme-stats-4sofa.vercel.app/api?username=4sofa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&locale=pt-br" />
 </a>
 <a href="https://github.com/4sofa">
-  <img height="180" alt="Linguagens mais usadas por 4sofa" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4sofa&layout=compact&langs_count=8&hide=TeX&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="180" alt="Linguagens mais usadas por 4sofa" src="https://github-readme-stats-4sofa.vercel.app/api/top-langs/?username=4sofa&layout=compact&langs_count=8&hide=TeX&theme=tokyonight&hide_border=true&locale=pt-br" />
 </a>
 
 </div>
