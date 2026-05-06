@@ -51,7 +51,7 @@ Atualmente estou fortalecendo meu conhecimento em Python, scripts de automacao, 
   <img alt="Repositorio Portifolio" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=Portifolio&theme=tokyonight&hide_border=true&description_lines_count=3&custom_description=Portfolio%20pessoal%20para%20apresentar%20projetos,%20habilidades%20e%20evolucao%20tecnica." />
 </a>
 <a href="https://github.com/4sofa/SiteCabana">
-  <img alt="Repositorio SiteCabana" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=SiteCabana&theme=tokyonight&hide_border=true&description_lines_count=3&custom_description=Site%20web%20para%20praticar%20estrutura,%20estilo%20visual%20e%20interatividade%20front-end." />
+  <img alt="Repositorio SiteCabana" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=SiteCabana&theme=tokyonight&hide_border=true&description_lines_count=3&custom_description=Site%20web%20para%20Cliente%20aluguel%20de%20cabanas,%20estilo%20visual%20e%20interatividade%20front-end." />
 </a>
 
 </div>
