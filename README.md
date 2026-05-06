@@ -61,10 +61,10 @@ Atualmente estou fortalecendo meu conhecimento em Python, scripts de automacao, 
 <div align="center">
 
 <a href="https://github.com/4sofa">
-  <img height="180" alt="GitHub stats de 4sofa" src="https://github-readme-stats-4sofa.vercel.app/api?username=4sofa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&locale=pt-br" />
+  <img height="230" alt="GitHub stats de 4sofa" src="https://github-readme-stats-4sofa.vercel.app/api?username=4sofa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&locale=pt-br&card_width=560&line_height=30" />
 </a>
 <a href="https://github.com/4sofa">
-  <img height="180" alt="Linguagens mais usadas por 4sofa" src="https://github-readme-stats-4sofa.vercel.app/api/top-langs/?username=4sofa&layout=compact&langs_count=8&hide=TeX&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="230" alt="Linguagens mais usadas por 4sofa" src="https://github-readme-stats-4sofa.vercel.app/api/top-langs/?username=4sofa&layout=compact&langs_count=8&hide=TeX&theme=tokyonight&hide_border=true&locale=pt-br&card_width=420" />
 </a>
 
 </div>
