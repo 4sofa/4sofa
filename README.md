@@ -36,77 +36,43 @@ Atualmente estou fortalecendo meu conhecimento em Python, scripts de automacao, 
 
 ## Projetos
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/4sofa/automa-o">automa-o</a></h3>
-      <p>Automacoes criadas para escola, prefeitura e colegio, incluindo geracao de links a partir de planilhas e envio de emails com dados estruturados.</p>
-      <p><strong>Stack:</strong> <code>JavaScript</code> <code>Google Sheets</code> <code>automacoes</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/4sofa/tech-news-aggregator">tech-news-aggregator</a></h3>
-      <p>Agregador editorial de noticias de TI com leitor interno, sincronizacao de noticias, traducao opcional e resumo por IA.</p>
-      <p><strong>Stack:</strong> <code>JavaScript</code> <code>Node.js</code> <code>Express</code> <code>Python</code> <code>CSS</code> <code>HTML</code> <code>libSQL/Turso</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/4sofa/SoundPad">SoundPad</a></h3>
-      <p>Painel pessoal de efeitos sonoros e memes para conversas ou streams, com busca de audios e configuracao de dispositivos.</p>
-      <p><strong>Stack:</strong> <code>JavaScript</code> <code>CSS</code> <code>HTML</code> <code>Python</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/4sofa/SoundPadv2">SoundPadv2</a></h3>
-      <p>Segunda versao/experimento do SoundPad com base Tauri para evoluir a ferramenta como app desktop.</p>
-      <p><strong>Stack:</strong> <code>CSS</code> <code>HTML</code> <code>JavaScript</code> <code>Rust</code> <code>Tauri</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/4sofa/Portifolio">Portifolio</a></h3>
-      <p>Portfolio pessoal para organizar apresentacao, habilidades, experiencia, projetos e evolucao tecnica.</p>
-      <p><strong>Stack:</strong> <code>TypeScript</code> <code>Next.js</code> <code>Tailwind CSS</code> <code>Framer Motion</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/4sofa/SiteCabana">SiteCabana</a></h3>
-      <p>Site web usado para praticar estrutura, estilo e interatividade no front-end.</p>
-      <p><strong>Stack:</strong> <code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/4sofa/Cursoemvideopy">Cursoemvideopy</a></h3>
-      <p>Repositorio de estudos e exercicios de Python.</p>
-      <p><strong>Stack:</strong> <code>Python</code> <code>HTML</code> <code>TeX</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/4sofa/CalculodaHipotenusa">CalculodaHipotenusa</a></h3>
-      <p>Mini projeto de estudo em Python para calcular hipotenusa e praticar logica basica.</p>
-      <p><strong>Stack:</strong> <code>Python</code> <code>HTML</code> <code>TeX</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/4sofa/Aniversario">Aniversario</a></h3>
-      <p>Aplicativo simples para verificar se a data atual corresponde ao aniversario informado.</p>
-      <p><strong>Stack:</strong> <code>Python</code> <code>HTML</code> <code>TeX</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/4sofa/AniversarioRGB">AniversarioRGB</a></h3>
-      <p>Variacao visual do projeto de aniversario, com foco em experimentacao de interface.</p>
-      <p><strong>Stack:</strong> <code>Python</code> <code>HTML</code> <code>TeX</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/4sofa/4sofa">4sofa</a></h3>
-      <p>Repositorio de configuracao do perfil GitHub e deste README.</p>
-      <p><strong>Stack:</strong> <code>Markdown</code> <code>GitHub Profile README</code></p>
-    </td>
-    <td width="50%" valign="top">
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/4sofa/automa-o">
+  <img alt="Repositorio automa-o" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=automa-o&theme=tokyonight&hide_border=true&description_lines_count=3" />
+</a>
+<a href="https://github.com/4sofa/tech-news-aggregator">
+  <img alt="Repositorio tech-news-aggregator" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=tech-news-aggregator&theme=tokyonight&hide_border=true&description_lines_count=3" />
+</a>
+<a href="https://github.com/4sofa/SoundPad">
+  <img alt="Repositorio SoundPad" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=SoundPad&theme=tokyonight&hide_border=true&description_lines_count=3" />
+</a>
+<a href="https://github.com/4sofa/SoundPadv2">
+  <img alt="Repositorio SoundPadv2" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=SoundPadv2&theme=tokyonight&hide_border=true&description_lines_count=3" />
+</a>
+<a href="https://github.com/4sofa/Portifolio">
+  <img alt="Repositorio Portifolio" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=Portifolio&theme=tokyonight&hide_border=true&description_lines_count=3" />
+</a>
+<a href="https://github.com/4sofa/SiteCabana">
+  <img alt="Repositorio SiteCabana" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=SiteCabana&theme=tokyonight&hide_border=true&description_lines_count=3" />
+</a>
+<a href="https://github.com/4sofa/Cursoemvideopy">
+  <img alt="Repositorio Cursoemvideopy" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=Cursoemvideopy&theme=tokyonight&hide_border=true&description_lines_count=3" />
+</a>
+<a href="https://github.com/4sofa/CalculodaHipotenusa">
+  <img alt="Repositorio CalculodaHipotenusa" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=CalculodaHipotenusa&theme=tokyonight&hide_border=true&description_lines_count=3" />
+</a>
+<a href="https://github.com/4sofa/Aniversario">
+  <img alt="Repositorio Aniversario" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=Aniversario&theme=tokyonight&hide_border=true&description_lines_count=3" />
+</a>
+<a href="https://github.com/4sofa/AniversarioRGB">
+  <img alt="Repositorio AniversarioRGB" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=AniversarioRGB&theme=tokyonight&hide_border=true&description_lines_count=3" />
+</a>
+<a href="https://github.com/4sofa/4sofa">
+  <img alt="Repositorio 4sofa" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=4sofa&theme=tokyonight&hide_border=true&description_lines_count=3" />
+</a>
+
+</div>
 
 ## Estatisticas
 
