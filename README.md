@@ -39,19 +39,19 @@ Atualmente estou fortalecendo meu conhecimento em Python, scripts de automacao, 
 <div align="center">
 
 <a href="https://github.com/4sofa/SoundPad">
-  <img alt="Repositorio SoundPad" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=SoundPad&theme=tokyonight&hide_border=true&description_lines_count=3&custom_description=Painel%20pessoal%20para%20efeitos%20sonoros%20e%20memes%20em%20conversas%20ou%20streams." />
+  <img alt="Repositorio SoundPad" src="https://github-stats-extended.vercel.app/api/pin/?username=4sofa&repo=SoundPad&theme=tokyonight&hide_border=true&description_lines_count=3&custom_description=Painel%20pessoal%20para%20efeitos%20sonoros%20e%20memes%20em%20conversas%20ou%20streams." />
 </a>
 <a href="https://github.com/4sofa/automa-o">
-  <img alt="Repositorio automa-o" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=automa-o&theme=tokyonight&hide_border=true&description_lines_count=3&custom_description=Automacoes%20para%20escola%20e%20prefeitura%20com%20planilhas,%20links%20e%20envio%20de%20emails." />
+  <img alt="Repositorio automa-o" src="https://github-stats-extended.vercel.app/api/pin/?username=4sofa&repo=automa-o&theme=tokyonight&hide_border=true&description_lines_count=3&custom_description=Automacoes%20para%20escola%20e%20prefeitura%20com%20planilhas,%20links%20e%20envio%20de%20emails." />
 </a>
 <a href="https://github.com/4sofa/tech-news-aggregator">
-  <img alt="Repositorio tech-news-aggregator" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=tech-news-aggregator&theme=tokyonight&hide_border=true&description_lines_count=3&custom_description=Agregador%20de%20noticias%20de%20TI%20com%20leitor%20interno,%20banco%20e%20resumos%20opcionais." />
+  <img alt="Repositorio tech-news-aggregator" src="https://github-stats-extended.vercel.app/api/pin/?username=4sofa&repo=tech-news-aggregator&theme=tokyonight&hide_border=true&description_lines_count=3&custom_description=Agregador%20de%20noticias%20de%20TI%20com%20leitor%20interno,%20banco%20e%20resumos%20opcionais." />
 </a>
 <a href="https://github.com/4sofa/Portifolio">
-  <img alt="Repositorio Portifolio" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=Portifolio&theme=tokyonight&hide_border=true&description_lines_count=3&custom_description=Portfolio%20pessoal%20para%20apresentar%20projetos,%20habilidades%20e%20evolucao%20tecnica." />
+  <img alt="Repositorio Portifolio" src="https://github-stats-extended.vercel.app/api/pin/?username=4sofa&repo=Portifolio&theme=tokyonight&hide_border=true&description_lines_count=3&custom_description=Portfolio%20pessoal%20para%20apresentar%20projetos,%20habilidades%20e%20evolucao%20tecnica." />
 </a>
 <a href="https://github.com/4sofa/SiteCabana">
-  <img alt="Repositorio SiteCabana" src="https://github-readme-stats-4sofa.vercel.app/api/pin/?username=4sofa&repo=SiteCabana&theme=tokyonight&hide_border=true&description_lines_count=3&custom_description=Site%20web%20para%20Cliente%20aluguel%20de%20cabanas,%20estilo%20visual%20e%20interatividade%20front-end." />
+  <img alt="Repositorio SiteCabana" src="https://github-stats-extended.vercel.app/api/pin/?username=4sofa&repo=SiteCabana&theme=tokyonight&hide_border=true&description_lines_count=3&custom_description=Site%20web%20para%20Cliente%20aluguel%20de%20cabanas,%20estilo%20visual%20e%20interatividade%20front-end." />
 </a>
 
 </div>
@@ -61,10 +61,10 @@ Atualmente estou fortalecendo meu conhecimento em Python, scripts de automacao, 
 <div align="center">
 
 <a href="https://github.com/4sofa">
-  <img height="230" alt="GitHub stats de 4sofa" src="https://github-readme-stats-4sofa.vercel.app/api?username=4sofa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&locale=pt-br&card_width=560&line_height=30" />
+  <img height="230" alt="GitHub stats de 4sofa" src="https://github-stats-extended.vercel.app/api?username=4sofa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&locale=pt-br&card_width=560&line_height=30" />
 </a>
 <a href="https://github.com/4sofa">
-  <img height="230" alt="Linguagens mais usadas por 4sofa" src="https://github-readme-stats-4sofa.vercel.app/api/top-langs/?username=4sofa&layout=compact&langs_count=8&hide=TeX&theme=tokyonight&hide_border=true&locale=pt-br&card_width=420" />
+  <img height="230" alt="Linguagens mais usadas por 4sofa" src="https://github-stats-extended.vercel.app/api/top-langs/?username=4sofa&layout=compact&langs_count=8&hide=TeX&theme=tokyonight&hide_border=true&locale=pt-br&card_width=420" />
 </a>
 
 </div>
